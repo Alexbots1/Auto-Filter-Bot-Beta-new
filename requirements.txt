@@ -2,7 +2,7 @@ hydrogram
 tgcrypto
 motor
 marshmallow
-umongo
+umongo 3.1.0
 pymongo
 pytz
 cinemagoer
